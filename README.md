@@ -19,8 +19,8 @@ Found unser WebContent -> css feel free to use div.errorMsg or create your own s
 We should focus on trying to use a single style for all pages
 
 #Task List for the project
-- [] EmployeePage -- Jeff (need to make changes still)
-- [] LoginPage -- Jullian (need to also create navigation bar)
-- [] GroupPage -- Roman 
-- [] DepartmentPage -- Kevin
-- [] Verify user is logged in to view pages after login
+[ ] EmployeePage -- Jeff (need to make changes still)
+[ ]LoginPage -- Jullian (need to also create navigation bar)
+[ ] GroupPage -- Roman 
+[ ] DepartmentPage -- Kevin
+[ ] Verify user is logged in to view pages after login
