@@ -23,5 +23,5 @@ We should focus on trying to use a single style for all pages
 - [ ] LoginPage -- Jullian (need to also create navigation bar)
 - [ ] GroupPage -- Roman 
 - [ ] DepartmentPage -- Kevin
-- [ ]Verify user is logged in to view pages after login
+- [ ] Verify user is logged in to view pages after login
 
