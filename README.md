@@ -1,38 +1,28 @@
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-# Java-Assignment-1-Employee-Page
-=======
-## Java-Assignment-1-Employee-Page ##
->>>>>>> c66ae54a22cfd4bb3cb6486cb0fa36a9aaec985c
+# Java-Assignment
+Stuff to be done
 
-#STILL NEED TO MAKE SMALL CHANGES but for now feel free to test and check if I am missing anything#
+#1 - Jullian
+  - Code Login Page
+  - Code Home page
+    a. Make the HEADER.jsp bar with links to each page. 
+       Header must be transferable to each page with include (like php)
+       
+#2 - Kevin
+  - Code Department Landing jsp
+  - Code Department Entry servlet with necessary helper classes
 
-#To test#
-Under src, Change DatabaseAccess.java string username and password to "admin","admin".
-If you have already set your mysql database access to different authentication replace the string values to your corresponding.
-
-#IMPORTANT!#
-  MAKE SURE TO SET DatabaseAccess username and password to "admin" and "admin" after testing to set back to original state of assignment requirements.
-<<<<<<< HEAD
-=======
-"# Java-Assignment-1-Employee-Page" 
->>>>>>> Stashed changes
-=======
-
-#To access the Database#
-Use the DatabaseAccess connectDataBase method (see EmployeeEntryPage.jsp for example.
-
-#Style sheet#
-Found unser WebContent -> css feel free to use div.errorMsg or create your own style sheet.
-
-#IMPORTANT!#
-We should focus on trying to use a single style for all pages
-
-#Task List for the project#
-- [x] EmployeePage -- Jeff (Need to make small changes still)
-- [ ] LoginPage -- Jullian (need to also create navigation bar)
-- [ ] GroupPage -- Roman 
-- [ ] DepartmentPage -- Kevin
-- [ ] Verify user is logged in to view pages after login
-
->>>>>>> c66ae54a22cfd4bb3cb6486cb0fa36a9aaec985c
+#3 - Jeffy-boi
+  - Code Employee Landing jsp
+  - Code Employee Entry servlet with necessary helper classes
+  
+#4 - Roman
+  - Code Group Landing jsp
+  - Code Group Entry servlet with necessary helper classes
+  
+#5 - Andrew
+  - CREATE DATABASE
+  - Code Reports Landing jsp
+    a. Put Under Construction Image
+  - Code Employee Attendance Landing jsp
+    a. Put Under Construction Image
+  

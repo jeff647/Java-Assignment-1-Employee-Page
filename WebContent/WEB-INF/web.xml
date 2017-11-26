@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+	<servlet>
+		<servlet-name>EmployeeEntryServlet</servlet-name>
+		<servlet-class>servlets.EmployeeEntryServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>EmployeeEntryServlet</servlet-name>
+		<url-pattern>/EmployeeEntry</url-pattern>
+	</servlet-mapping>
+</web-app>
